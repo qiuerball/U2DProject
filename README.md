@@ -3,7 +3,7 @@
 
 跟着B站UP主(M_Studio)学习做一款勇士传说的横版2D单机游戏;学习地址：M_Studio发布的《<勇士传说>Unity2022版教程》。
 
-Unity Editor版本号: **2022.2.6f1c1**
+Unity Editor版本号: **2022.2.6f1c1**  安装的时候记得把  **Universal Windows Platform Build Support**勾选上
 
 B站免费教程链接:https://space.bilibili.com/370283072/lists/1187255?type=season
 
