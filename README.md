@@ -27,4 +27,8 @@ https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
 ## git设置：
   暂无说明
 ## 修改记录：
-2025-07-27 qiuerball 创建Unity基础工程
+
+|  日期  | 修改内容  | 修改人  |
+|  :----  | :----  | :----  |
+| 2025-07-27  | unity基础工程创建 | qiuerball |
+| NA  | NA  | NA  |
