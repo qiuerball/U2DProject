@@ -31,7 +31,7 @@ https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
 |  日期  | 修改内容  | 修改人  |
 |  :----  | :----  | :----  |
 | 2025-07-27  | unity基础工程创建 | qiuerball |
-| NA  | NA  | NA  |
+| 2025-07-28  | **B站教程P6** <br>给人物添加刚体组件，碰撞体组件，控制脚本<PlayerController.cs>;<br>添加inputSystem库(1.5.1版本);<br>添加一个红色的长方形碰撞体组件，让人物在受重力作用下可站立在其上 | qiuerball |
 
 ## 需求分解：
 
