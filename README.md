@@ -11,7 +11,7 @@ https://space.bilibili.com/370283072/lists/1187255?type=season
 
 u3d(unity3D教程官网)付费版中文课程链接:
 
-https://learn.u3d.cn/tutorial/2DAdventure?utm_source=learn&utm_medium=home   **(付费￥149)**
+https://learn.u3d.cn/tutorial/2DAdventure?utm_source=learn&utm_medium=home
 
 
 相关素材下载链接:
