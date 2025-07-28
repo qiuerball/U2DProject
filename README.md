@@ -32,3 +32,17 @@ https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
 |  :----  | :----  | :----  |
 | 2025-07-27  | unity基础工程创建 | qiuerball |
 | NA  | NA  | NA  |
+
+## 需求分解：
+
+|  需求1级  | 需求2级 | 需求3级 | 详细说明  | 状态  | 责任人 |
+|  :----  | :----  | :----  | :----  | :----  | :----  |
+| NA  | NA  | NA  | NA  | NA  | NA  |
+| NA  | NA  | NA  | NA  | NA  | NA  |
+
+
+## 作者联系方式
+| 类型 | 信息 |
+| :---- | :---- |
+| 邮箱 | ecust_yxwang@qq.com |
+| 地址 | NA |
