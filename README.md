@@ -34,12 +34,7 @@ https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
 | 2025-07-28  | **B站教程P6** <br>给人物添加刚体组件，碰撞体组件，控制脚本<PlayerController.cs>;<br>添加inputSystem库(1.5.1版本);<br>添加一个红色的长方形碰撞体组件，让人物在受重力作用下可站立在其上 | qiuerball |
 | 2025-08-01  | **B站教程P7/P8** <br>人物绑定\[A\] \[D\]键可以左右移动,随着移动方向修改动画朝向;<br>绑定\[space\]键跳跃 | qiuerball |
 
-## 需求分解：
 
-|  需求1级  | 需求2级 | 需求3级 | 详细说明  | 状态  | 责任人 |
-|  :----  | :----  | :----  | :----  | :----  | :----  |
-| NA  | NA  | NA  | NA  | NA  | NA  |
-| NA  | NA  | NA  | NA  | NA  | NA  |
 
 
 ## 作者联系方式
