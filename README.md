@@ -36,9 +36,10 @@ https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
 
 
 
-
 ## 作者联系方式
 | 类型 | 信息 |
 | :---- | :---- |
 | 邮箱 | ecust_yxwang@qq.com |
+| QQ | 1005722698 |
+| WeChat | qqball19990710 |
 | 地址 | NA |
